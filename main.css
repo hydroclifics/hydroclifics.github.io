@@ -2,19 +2,21 @@
 	width:20%;
 	padding:10px;
 	float:left;
+	background-color: blue;
+	color: white;
 }
+
 .mainside{
 	width:50%;
 	float:left;
-
+	color: blue;
 
 }
 .rightside{
 	width:20%;
 	padding:10px;
 	float:left;
-	
-	
-
+	background-color: blue;
+	color: white;
 }
 
