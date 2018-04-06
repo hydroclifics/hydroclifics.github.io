@@ -1,0 +1,19 @@
+nav{
+	background-color: green;
+}
+
+.jumbotron{
+	background-color: green;
+	margin:auto;
+	border:solid;
+	padding:40px;
+	width:80%;
+}
+img{
+	width: 30%;
+}
+
+
+body{
+	background-color:black;
+}
