@@ -1,0 +1,20 @@
+
+}div{
+	border:solid;
+	margin:auto;
+	width:30%;
+	padding:10px;
+	background:cyan;
+}
+body{
+	background-image:url("https://i.ytimg.com/vi/Jf71CCZN8Lg/maxresdefault.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+
+h1{
+	text-align:center;
+	color:cyan;
+	font-family: 'Faster One', cursive;
+	font-size:500%;
+}
