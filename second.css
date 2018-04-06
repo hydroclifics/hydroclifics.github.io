@@ -1,0 +1,29 @@
+body{
+	background:#0099ff;
+    
+
+}
+
+div{
+	border:solid;
+	border-color: cyan;
+	width:70%;
+	background-color:#0000e6;
+	padding: 10px;
+	margin: auto;
+
+
+}
+
+p{
+	color:cyan;
+}
+
+
+h1{
+	color:cyan;
+}
+
+p{
+	text-align: center;
+}
