@@ -1,24 +1,48 @@
-.leftside{
-	width:20%;
-	padding:10px;
-	float:left;
-}
-
 .mainside{
-	width:50%;
-	float:left;
-	
-
+	float: left;
+	width: 55%;
+	padding: 10px;
 }
+
+.leftside{
+	float: left;
+	width: 20%;
+	text-align: left;
+	padding: 5px;
+}
+
 .rightside{
-	width:20%;
-	padding:10px;
-	float:left;
-	
+	float: left;
+	width: 20%;
+	text-align: right;
+	padding: 5px;
+	border:solid;
+	margin-right:7px;
+	background-color:blue;
+	text-align:left;
 }
-
 
 h1{
-	background-color:yellow:
+	color: gold;
+	text-align: center;
+	background-color:blue;
+	padding:20px;
+}
 
+.container{
+	margin: 10 auto;
+}
+
+.bottomphoto{
+	margin: auto;
+	text-align:center;
+}
+
+
+h3{
+	color:#00ccff;
+}
+
+p{
+	color: #0066ff;
 }
