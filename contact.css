@@ -1,7 +1,6 @@
-h3{
-	font-size:200%;
-	
-}
-body{
-	float:left;
+.leftside{
+	float: left;
+	width: 20%;
+	text-align: left;
+	padding: 5px;
 }
