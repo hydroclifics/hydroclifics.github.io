@@ -1,7 +1,11 @@
-div{
+.leftside{
 	float: left;
 	width: 20%;
 	text-align: left;
 	padding: 5px;
-	color:blue;
+}
+.mainside{
+	float: left;
+	width: 55%;
+	padding: 10px;
 }
